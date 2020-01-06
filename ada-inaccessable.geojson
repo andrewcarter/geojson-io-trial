@@ -2631,39 +2631,6 @@
           34.090749500655235
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.35545539855957,
-          34.098088270651225
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.35152864456178,
-          34.09799942736189
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.34779500961304,
-          34.0980527333467
-        ]
-      }
     }
   ]
 }
